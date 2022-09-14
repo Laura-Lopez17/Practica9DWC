@@ -1,6 +1,9 @@
-body {
+h1 {
     font-family: sans-serif;
     text-decoration: underline;
     text-align:center;
-    
+}
+
+p{
+    text-shadow: 0.1em 0.1em grey;
 }
